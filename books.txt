@@ -1,0 +1,10 @@
+Harry Potter,JK Rowling,26,$2
+Start With Why,Simon Sinek,7,$1.5
+Programming With Python,John Smith,6,$1.5
+Brave New World,Aldous Huxley,15,$2.4
+To Kill a Mockingbird,Harper Lee,13,$2
+jane eyre,Charlotte Bronte,20,$1.7
+This Side of Paradise,F. Scott Fitzgerald,10,$3.5
+luster,Raven leilani,15,$3
+Hamnet,Maggie O'Farrell,12,$2.3
+Lord of the Flies,William Golding,18,$1.2
